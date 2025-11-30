@@ -95,5 +95,3 @@ Apache Tomcat for seamless server-client interactions.
 Eclipse IDE for streamlining the development process.
 Simplify your library management with this robust, feature-rich system.
 The Java Library Management System—your one-stop solution for efficient library operations! 📚💻
-
-This version provides a visually appealing structure, enhancing the readability and engagement of the README file. It includes sections that explain the features, technologies, and setup process while also utilizing emojis for a modern and friendly touch.
